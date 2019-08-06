@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "167971591930",
+    "firebase_url": "https://ibigmessage.firebaseio.com",
+    "project_id": "ibigmessage",
+    "storage_bucket": "ibigmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167971591930:android:15389cab0a7c325d",
+        "android_client_info": {
+          "package_name": "com.example.hey_st.elderlycarerobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167971591930-4t7o8ftreeiurv32detpm9ot7d0rql3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hey_st.elderlycarerobot",
+            "certificate_hash": "cad42fa3559ebb1ca45b493422f5913c2a64a09f"
+          }
+        },
+        {
+          "client_id": "167971591930-7jrgegn824f4gfmcms3k18on99nmndn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWkBAD_cenSTIDr-BjSe71nPWmkFROZ3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167971591930-7jrgegn824f4gfmcms3k18on99nmndn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167971591930:android:a74e018a7fd3c056",
+        "android_client_info": {
+          "package_name": "com.example.jeffreycheung.elderlycarerobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167971591930-6tfra7t3jb7h8oterf6hchibal0boc9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeffreycheung.elderlycarerobot",
+            "certificate_hash": "7fb070448e623835231d46680c3c11f165d6008a"
+          }
+        },
+        {
+          "client_id": "167971591930-jk5l40485c5f7f1epdq52nq02b2igvff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeffreycheung.elderlycarerobot",
+            "certificate_hash": "cad42fa3559ebb1ca45b493422f5913c2a64a09f"
+          }
+        },
+        {
+          "client_id": "167971591930-7jrgegn824f4gfmcms3k18on99nmndn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWkBAD_cenSTIDr-BjSe71nPWmkFROZ3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167971591930-7jrgegn824f4gfmcms3k18on99nmndn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
