@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     HashMap<String, String> params;
     private String LOG_TAG = "Status";
     public TextView textView;
+    public String hello = "hello";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
